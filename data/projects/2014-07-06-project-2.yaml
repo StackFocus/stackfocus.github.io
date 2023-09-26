@@ -1,0 +1,10 @@
+modalID: 2
+title: Cloud Migration Services
+subtitle: StackFocus helps you achieve the benefits of the cloud with expert migration services that go beyond simply moving your infrastructure.
+date: 2014-07-06
+img: cloud-migration.png
+preview: cloud-migration.png
+#client: Start Bootstrap
+clientLink: "#"
+#category: Website Design
+description: "A strategic cloud adoption and application migration plan goes beyond a “lift and shift” approach that just moves your infrastructure to the cloud. Simply moving your infrastructure or changing platforms fails to take advantage of everything cloud-native architecture offers. A comprehensive cloud migration strategy rebuilds your existing infrastructure from the ground up to maximize the full potential of cloud computing."

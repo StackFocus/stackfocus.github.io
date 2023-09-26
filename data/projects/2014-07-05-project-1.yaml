@@ -1,0 +1,10 @@
+modalID: 1
+title: Managed Kubernetes Service
+subtitle: Deploy and scale applications across hybrid, private, and public cloud environments with Kubernetes — a leading solution for managing containerized environments.
+date: 2014-07-05
+img: kubernetes.png
+preview: kubernetes.png
+client: Start Bootstrap
+clientLink: "#"
+#category: Graphic Design
+description: Improve application administration in your IT environment by simplifying development, release, and deployment processes. Reduce development and release timeframes, increase software availability and scalability, and optimize IT costs. Kubernetes is the leading solution for deploying, scaling, and managing containerized applications, ensuring they operate in any private or public environment without compromising performance or functionality.
