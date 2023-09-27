@@ -47,6 +47,12 @@
           </li>
         {{ end }}
 
+        {{ if .Site.Params.approach.enable }}
+          <li>
+            <a class="page-scroll" href="{{ .Site.BaseURL }}#approach">{{ with .Site.Params.navigation.approach }}{{ . }}{{ end }}</a>
+          </li>
+        {{ end }}
+
         {{ if .Site.Params.about.enable }}
           <li>
             <a class="page-scroll" href="{{ .Site.BaseURL }}#about">{{ with .Site.Params.navigation.about }}{{ . }}{{ end }}</a>

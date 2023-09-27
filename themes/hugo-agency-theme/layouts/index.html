@@ -15,6 +15,10 @@
       {{ partial "portfolio.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.approach.enable }}
+      {{ partial "approach.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.about.enable }}
       {{ partial "about.html" . }}
     {{ end }}

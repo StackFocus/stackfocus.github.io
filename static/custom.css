@@ -49,3 +49,25 @@ a {
     border-color: #23572D;
     background-color: #23572D;
 }
+
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #23572D;
+}
+
+.btn-xl.disabled,  .btn-xl.active {
+    border-color: #23572D;
+    background-color: #23572D;
+}
+
+.btn-xl.disabled, .btn-xl[disabled], fieldset[disabled] .btn-xl, .btn-xl.disabled:hover, .btn-xl[disabled]:hover, fieldset[disabled] .btn-xl:hover, .btn-xl.disabled:focus, .btn-xl[disabled]:focus, fieldset[disabled] .btn-xl:focus, .btn-xl.disabled:active, .btn-xl[disabled]:active, fieldset[disabled] .btn-xl:active, .btn-xl.disabled.active, .btn-xl[disabled].active, fieldset[disabled] .btn-xl.active {
+    border-color: #23572D;
+    background-color: #23572D;
+}
+
+.timeline > li .timeline-image {
+    background-color: #23572D;
+}
+
+.timeline > li .timeline-panel {
+    text-align: left;
+}
